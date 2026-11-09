@@ -1,0 +1,14 @@
+/* this adjusts the size of the images*/
+img {
+    width:700px
+}
+
+/*this makes the text aligned in the centre and controls the font*/
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+/*this changes the background colour and text colour too!*/
+    background: rgb(230, 209, 171);
+    color: brown;
+    font-size: larger;
+}
